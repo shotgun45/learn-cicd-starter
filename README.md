@@ -5,6 +5,8 @@ This repo contains the starter code for the "Notely" application for the "Learn 
 ## Project Status
 [![CI](https://github.com/shotgun45/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/shotgun45/learn-cicd-starter/actions/workflows/ci.yml)
 
+[![CD](https://github.com/shotgun45/learn-cicd-starter/actions/workflows/cd.yml/badge.svg)](https://github.com/shotgun45/learn-cicd-starter/actions/workflows/cd.yml)
+
 ## Local Development
 
 Make sure you're on Go version 1.22+.
